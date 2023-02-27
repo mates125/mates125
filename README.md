@@ -1,7 +1,7 @@
 # Mateus Rodrigues Lopes
 
 📚 Estudante de Ciência e Tecnologia na UNIFESP-SJC
-<br/>💼 Programador na Easy2Tech.
+<br/>💻 Programador na Easy2Tech.
 <br/>🐍 Atuando com Python para Data Science e Automações.
 <br/>📝 Estudando JavaScript e SQL.
 <br/>💬 Sobre mim: Apaixonado por música, programação e tecnologia.
