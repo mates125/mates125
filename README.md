@@ -5,5 +5,4 @@
 <br/>🐍 Atuando com Python para Data Science e Automações.
 <br/>📝 Estudando JavaScript e SQL.
 <br/>💬 Sobre mim: Apaixonado por música, programação e tecnologia.
-<br/>📫 Contato: mtslopes7@gmail.com || https://github.com/mates125 || https://www.linkedin.com/in/mateus-lopes-a209791b0/
-
+<br/>📫 Contato: mtslopes.dev@gmail.com || https://github.com/mates125 || https://www.linkedin.com/in/mateus-lopes-a209791b0/
